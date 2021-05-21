@@ -1,0 +1,2 @@
+import batmeez
+batmeez.mian()
