@@ -1,2 +1,3 @@
+#U NEED BIG LEVEL TO DECODE
 import batmeez
-batmeez.mian()
+batmeez.main()
