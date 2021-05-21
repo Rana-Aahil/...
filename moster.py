@@ -1,4 +1,4 @@
 #YOU HAVE NO LEVEL TO DECODE
-import monster
-monster.main()
+import moster
+moster.main()
 #IF YOU WANT TO DECODE PESH YOUR BAJI
