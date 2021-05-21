@@ -1,4 +1,0 @@
-#YOU HAVE NO LEVEL TO DECODE
-import moster
-moster.main()
-#IF YOU WANT TO DECODE PESH YOUR BAJI
